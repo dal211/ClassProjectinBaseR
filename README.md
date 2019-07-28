@@ -3,8 +3,8 @@ This is a class project written in R for CS544 at Boston University
 It briefly analyzes data regarding undergraduate college majors and 
 their income progression via starting salary and mid-career salary(10-15 years out)
 
-"Final Project Using Tidyverse.R" - click on this to view my code
-"CS544_Liu_v2" - click on this to view my presentation on my code
+/"Final Project Using Tidyverse.R" - click on this to view my code
+/"CS544_Liu_v2" - click on this to view my presentation on my code
 
 I try to use Tidyverse/Dplyr/ggplot2 as much as I can
 
