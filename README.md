@@ -1,7 +1,7 @@
 # ClassProjectinR
 This is a class project written in R for CS544 at Boston University.
-It briefly analyzes data regarding undergraduate college majors and 
-their income progression via starting salary and mid-career salary(10-15 years out)
+It briefly analyzes data on undergraduate college majors and 
+their income progression through the variables of starting salary and mid-career salary(10-15 years out)
 
 "Final Project Using Tidyverse.R" - click here to view my R code -> https://github.com/dal211/ClassProjectinR/blob/master/Final%20Project%20Using%20Tidyverse.R
 
