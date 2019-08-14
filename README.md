@@ -1,5 +1,5 @@
 # ClassProjectinR
-This is a class project written in R for CS544 at Boston University
+This is a class project written in R for CS544 at Boston University.
 It briefly analyzes data regarding undergraduate college majors and 
 their income progression via starting salary and mid-career salary(10-15 years out)
 
