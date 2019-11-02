@@ -1,4 +1,4 @@
-# ClassProjectinR
+# ClassProjectinR (Descriptive Statistics Focus)
 This is a class project written in R for CS544 Fundamentals of Analytics in R at Boston University.
 It briefly analyzes the relationship between selecting an undergraduate major and its income potential through the variables of starting median income and mid-career median income (10-15 years out).
 
